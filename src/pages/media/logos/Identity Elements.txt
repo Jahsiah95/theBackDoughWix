@@ -1,0 +1,6 @@
+Font
+Script: Avallon Caps
+Colour(s): bright red (#ff3131), dark green (#06861e), white(#fffffff)
+
+Background
+Colour(s): peach (#ffbd59), bright red (#ff3131), 

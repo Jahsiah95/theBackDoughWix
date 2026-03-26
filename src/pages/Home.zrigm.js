@@ -1,10 +1,10 @@
-// Velo API Reference: https://www.wix.com/velo/reference/api-overview/introduction
-import wixWindow from 'wix-window';
+// API Reference: https://www.wix.com/velo/reference/api-overview/introduction
+// “Hello, World!” Example: https://learn-code.wix.com/en/article/hello-world
 
 $w.onReady(function () {
-wixWindow.getBoundingRect().then((windowSizeInfo) => {
-                        let windowHeight = windowSizeInfo.window.height;
-                        console.log(windowHeight);
-                        $w('#columnStrip18'). = "#ff9900";
-                        })
-})
+    // Write your JavaScript here
+
+    // To select an element by ID use: $w('#elementID')
+
+    // Click 'Preview' to run your code
+});
