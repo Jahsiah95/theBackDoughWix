@@ -1,0 +1,10 @@
+#section1 {
+    height: 100vh;
+    width: 100vw;
+    baackground: rgba(47, 79, 79, 0.8);
+}
+
+#image1 {
+    height: 50%;
+    width: 50%;
+}
